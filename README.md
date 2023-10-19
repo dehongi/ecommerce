@@ -1,2 +1,2 @@
 # django_project
-Django skelton project with custom user model
+Ecommerce website built using Django web framework.
